@@ -1,0 +1,10 @@
+node_modules/
+npm-debug.log
+*.log
+*.DS_Store
+log
+.vscode
+dist
+Dockerfile
+app.yaml
+.idea
